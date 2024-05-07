@@ -1,0 +1,13 @@
+@charset "UTF-8";
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+}
+.logo p {
+    text-align: center;
+    font-size: 20px;
+    color: #eb89dd;
+    height: 50px;
+}
